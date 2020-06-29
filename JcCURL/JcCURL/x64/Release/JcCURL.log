@@ -1,0 +1,8 @@
+﻿  JcCURL.cpp
+     Creating library C:\Users\admin\source\repos\JcCURL\x64\Release\JcCURL.lib and object C:\Users\admin\source\repos\JcCURL\x64\Release\JcCURL.exp
+  Generating code
+  10 of 90 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  JcCURL.vcxproj -> C:\Users\admin\source\repos\JcCURL\x64\Release\JcCURL.dll
